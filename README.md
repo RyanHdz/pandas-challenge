@@ -1,1 +1,1 @@
-# pandas-challenge
+In this file, we calculated the average scores of students in district and charter schools. We broke it down into each score per grade as well as the budgets of the school. There are several observations to be made from this data.
